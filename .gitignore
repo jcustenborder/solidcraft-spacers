@@ -1,0 +1,4 @@
+*.sc.bak
+opencode.json
+.~*.sc.lock
+.playwright-mcp/
